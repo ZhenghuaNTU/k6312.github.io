@@ -4,17 +4,15 @@
 
 ## <font color='Red'>Course Description </font>
 
-Nowadays, with the popularity of the Internet, there is a massive amount of text content available on the Web, and it becomes an important resource for mining useful knowledge. From a business and government point of view, there is an increasing need to interpret and act upon the large-volume text information. Therefore, text mining (or text analytics) is getting more attention to analyze text content on the Web. For instance, opinion mining and sentiment analysis is one of text mining techniques to analyze user-generated content on social media platforms.
+Nowadays, with the popularity of the Internet, there is a massive amount of data available, and it becomes an important resource for mining useful knowledge. From a business and government point of view, there is an increasing need to interpret and act upon the large-volume data.
 
-This course is an introduction to text and web mining. It covers how to analyse unstructured data (i.e. text content) on the Web using text mining techniques. Students will learn various text mining techniques and tools both through lectures and hands-on exercises in labs. The course will also explore various usages of text mining techniques to real world applications. This course focuses on Web content mining, but not on Web structure and usage mining.
-
+This course is an introduction to data (or information) mining and analysis, and covers how to analyse structured data. Students will learn various machine learning (or statistical learning) techniques and tools both through lectures and hands-on exercises in labs.
 Students will learn following topics in the course:
 
 * Principles and concepts of text and web mining.
-* Various text mining techniques: Pre-processing for Text Mining, Text Categorization, Document Clustering, Information Extraction, and Opinion Mining & Sentiment Analysis.
-* Practical use of text mining to real world applications, such as Text Message Spam Detection,
-and Sentiment Analysis Systems analyzing public opinion towards various subjects, such as electronic gadgets, movies, stocks, etc., using social media content.
-
+* Various machine learning techniques: linear regression, logistic regression, decision tree induction, K-Nearest Neighbors classification, Bayesian learning, support vector machines, K-means clustering, etc.
+* Evaluation metrics and methods, such as precision, recall, F-1 score, and cross-validation.
+* Practical use of data mining to real world applications.
 ### Contact Information:
 
 - Lecturers: 
@@ -26,15 +24,21 @@ and Sentiment Analysis Systems analyzing public opinion towards various subjects
 
 At the end of this course, students should be able to:
 
-- Appreciate the basics of text and web mining.
-- Understand the advantages and disadvantages of different text mining techniques.
-- Work on practical problems that can be solved using text mining techniques.
+- Appreciate the basics of data mining and analysis.
+- Understand the advantages and disadvantages of different data mining techniques.
+- Work on practical problems that can be solved using data mining techniques.
 
 ### Prerequisites:
 
 - The student has some aptitude for low-level logical thinking since lectures and labs will focus
-on technical aspects of Text and Web Mining.
-- Basic knowledge in **Python programing**.
+on technical aspects of Data Mining and Analysis.
+
+Basic computer programming skill is required before you take this course. Also it would be helpful if you have some basic knowledge of mathematics and statistics.
+
+### Method of Assessment:
+Coursework (individual and group assignments): 40% (40 marks)
+Class Participation (class interactions and attendance): 10% (10 marks)
+Final examination: 50% (50 marks); 3 hours closed book exam
 
 ### Reference Books
 
