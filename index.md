@@ -1,4 +1,4 @@
-# H6751 Web and Text Mining
+# K6312 INFORMATION MINING & ANALYSIS
 
 #### <center>NTU, WKW / Spring 2020</center>
 
@@ -18,9 +18,9 @@ and Sentiment Analysis Systems analyzing public opinion towards various subjects
 ### Contact Information:
 
 - Lecturers: 
-     * [Zhao Rui](https://rzntu.github.io), [rui.zhao@ntu.edu.sg](mailto:rui.zhao@ntu.edu.sg)
-
      * [Chen Zhenghua](https://zhenghuantu.github.io), [zhenghua.chen@ntu.edu.sg](mailto:zhenghua.chen@ntu.edu.sg)
+     
+     * [Zhao Rui](https://rzntu.github.io), [rui.zhao@ntu.edu.sg](mailto:rui.zhao@ntu.edu.sg)
             
 ### Course Objectives:
 
