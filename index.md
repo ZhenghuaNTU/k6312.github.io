@@ -89,7 +89,7 @@ For each project, each team will conduct a 15/20-minute presentation on their pr
 
 The assignment is due at the beginning of the class period on due date. Note that reports and required files / documents handed in after the due date will be marked down by **10% per day**.
 
-### Final Exam (45%)
+### Final Exam (50%)
 
 We will prepare a review session before the final exam.
 
@@ -111,7 +111,7 @@ Thursday 03/19 | Interpretability of Machine Learning | TBU | N.A.
 Thursday 03/26 | Unsupervised Learning (Clustering) | TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/02 | Introduction to Deep Learning | TBU| N.A.
 Thursday 04/09 | Group Presentation | TBU | N.A.
-Thursday 04/16 | Group Presentation | N.A. | N.A.
+Thursday 04/16 | Group Presentation & Kep Points Review | N.A. | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
 
