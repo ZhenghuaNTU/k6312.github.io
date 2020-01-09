@@ -45,10 +45,8 @@ Final examination: 50% (50 marks); 3 hours closed book exam
 The following books are helpful, but not required. You will easily get these books from Internet.
 
 
-- Foundations of Statistical Natural Language Processing *Christopher D. Manning and Hinrich Schütze*
-- Neural Network Methods for Natural Language Processing *Yoav Goldberg*
+- Introduction to Statistical Learning with Applications in R. (2017), 7th printing 2017 edition, Gareth James, Daniela Witten, Trevor Hastie, and Robert Tibshirani. Springer.
 - Introduction to Computation and Programming Using Python : With Application to Understanding Data *John V. Guttag* 
-- Applied Text Analysis with Python *Benjamin Bengfort* 
 
 If you are not proficient in python, you may find [some tutorials](material/coding.md) helpful.
 
@@ -66,31 +64,30 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='Red'>Assessment</font>
 
-### Class Participation (5%)
+### Individual Homework and Lab Assignments (10 marks)
+Due date: will be announced later on
 
-We aapreciate everyone being actively involved in the class! There are serveral ways of earning participation credit, which is capped at 5%:
+These are individual homework and lab assignments. For the lab assignments, you will be asked to submit simple lab reports during or after certain lab sessions. Note that homework and lab assignment reports handed in after the due date/time will not be marked. These assignments will account for **10%** of the overall grade.
 
-1. **Attending guest speakers' lectures**: In the semester, we have two invitied speakers, who are making a great efforts to come lecture for us. We do not want them speaking to a empty room. Your attendance at lectures with guest spearks is expected! In addition, it will be a very awesome chance for networking! You will get 1% per speark (total 2%) for attending.
-2. **Attending two random lectures**: We are going to take attendance at two randonly-selected (non-guest) lectures in the quarter. Each is worth 1% (total 2%).
-3. **Karma Point**: Any other act that improves the class, which instructors notics and deems worthy: 1%. 
+### Group Project (30 marks)
+Project title selection due: see the class schedule
+Project due date: see the class schedule
 
-### Kaggle Competition (8%)
+This is a group project (the size of each group will be announced later). All team members will receive the same grade. This project will account for **30%** of the overall grade. **Please e-mail the lecturer your project title by the project title selection due date.** Include the names of team members in the message.
 
-H6751 will host a internal 5 weeks text mining competition. The deatils will be announced later. 
+This is a data mining project where you collect your own sample dataset or use an existing dataset, and using data mining techniques and tools, build an interesting model that mines and analyzes knowledge/information from the dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting model (or application). Then, write a project report explaining your methodology and presenting the results.
 
+You may conduct investigative analysis of your dataset using one or more of the following data mining approaches:
 
-### Individual In-class Assignment (12%)
+  * Regression (i.e. score prediction)
+  * Classification
+  * Culstering
 
-We are going to have a two-hour in-class assignment, which covers programming. The details will be announced later. 
+The report should contain **up to 3,000 words**. The report **must** include a bibliography listing all references (including URLs, if any) cited, as well as a cover page. The report must be in **both** hard copy and soft copy form and handed in by the due date. The soft copy should be submitted through **Turnitin**. Also submit a CD containing the report, dataset, implementation files (such as Python scripts files), and computer codes (if applicable) used by the project to the instructor by the due date. You are encouraged to produce high quality work as all the reports will be made available on the course web site for the benefit of the class.
 
-### Group Project (30%)
+For each project, each team will conduct a 15/20-minute presentation on their project work. This will be followed by a 5 minute question-and-answer session to allow for clarification by students and the lecturer. Schedules for the presentation will be announced later.
 
-You are required to form a project group with 3-4 members. This is a text mining project where you collect your own sample text dataset (or use an existing dataset), and using text mining techniques and tools, build an interesting model / application that mines knowledge/information from the text dataset. Generally, the project scope is entirely up to you, but I suggest that you build a useful and interesting application. Then, write a project report explaining your methodology and presenting the results and present your work in class. The detailed information can be found [here](project/project.md).
-
-
-- **Credit**:
-  * Project report (15%) 
-  * Project presentation (15%)
+The assignment is due at the beginning of the class period on due date. Note that reports and required files / documents handed in after the due date will be marked down by **10% per day**.
 
 ### Final Exam (45%)
 
@@ -105,17 +102,16 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 Thursday 01/16 | Introduction to Information Mining & Analysis (Data Proprocessing)| TBU | N.A.
 Thursday 01/23 | Basics in Python Programming | TBU |N.A
 Thursday 01/30 | Linear Regression  | TBU | N.A.
-Thursday 02/06 | Logistic Regression | TBU | <font color='SeaGreen'>Kaggle Competition Starts</font>
+Thursday 02/06 | Logistic Regression | TBU | N.A.
 Thursday 02/13 | Decision Tree |TBU | <font color='SeaGreen'>Project Title Submission</font>
 Thursday 02/20 | Ensemble Learning| TBU | N.A.
 Thursday 02/27 | Neural Networks| TBU | N.A.
 Thursday 03/12 | Support Vector Machine | TBU | 
-Thursday 03/19 | Interpretability of Machine Learning | TBU | <font color='SeaGreen'>Kaggle Competition Ends</font>
+Thursday 03/19 | Interpretability of Machine Learning | TBU | N.A.
 Thursday 03/26 | Unsupervised Learning (Clustering) | TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/02 | Introduction to Deep Learning | TBU| N.A.
 Thursday 04/09 | Group Presentation | TBU | N.A.
 Thursday 04/16 | Group Presentation | N.A. | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
-    
 
