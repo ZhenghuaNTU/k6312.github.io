@@ -83,11 +83,34 @@ You may conduct investigative analysis of your dataset using one or more of the 
   * Classification
   * Culstering
 
-The report should contain **up to 3,000 words**. The report **must** include a bibliography listing all references (including URLs, if any) cited, as well as a cover page. The report must be in **both** hard copy and soft copy form and handed in by the due date. The soft copy should be submitted through **Turnitin**. Also submit a CD containing the report, dataset, implementation files (such as Python scripts files), and computer codes (if applicable) used by the project to the instructor by the due date. You are encouraged to produce high quality work as all the reports will be made available on the course web site for the benefit of the class.
+1. Report Submission: 
+  - Must include a bibliography listing all references (including URLs, if any) cited
+  - Length: 8-10 pages.
+  - Formatting: The use of 10-point Times font is mandatory. The formatting should be referred to [ICML style](https://icml.cc/Conferences/2019/StyleAuthorInstructions). The word template could be found [here](icml2012.doc). The latex template is provided in the [overleaf](https://www.overleaf.com/latex/templates/icml-2019-submission-template/vkqjjvzjvhdc). 
+  - Only require the soft copy. The soft copy should be submitted through **Turnitin**. 
+  - Create your github project page that containing dataset and code used by the project. And put your github repo link in your report.
 
-For each project, each team will conduct a 15/20-minute presentation on their project work. This will be followed by a 5 minute question-and-answer session to allow for clarification by students and the lecturer. Schedules for the presentation will be announced later.
+2. Group Presentation: 
+  - Each team will be asked to conduct a 15/20-minute presentation on their project work. This will be followed by a 5 minute question-and-answer session to allow for clarification by students and the lecturer. Schedules for the presentation will be announced later.
+  - Every teammember is required to present.
 
-The assignment is due at the beginning of the class period on due date. Note that reports and required files / documents handed in after the due date will be marked down by **10% per day**.
+Note that reports and required files/documents handed in after the due date will be marked down by **10% per day**.
+
+#### IDEAS INSPRIATION
+
+You might look at recent deep learning publications from top-tier machine learning conferences and labs, as well as other resources below.
+
+- [NeurIPS](https://neurips.cc/): Neural Information Processing Systems
+- [ICML](https://icml.cc/): International Conference on Machine Learning
+- [Kaggle challenges](https://www.kaggle.com): An online machine learning competition website
+
+#### How to get Data?
+
+- Get data from social networks, such as Twitter or other websites
+- [Kaggle Datasets](https://www.kaggle.com/datasets)
+- [UCI](https://archive.ics.uci.edu/ml/datasets.php)
+
+
 
 ### Final Exam (50%)
 
