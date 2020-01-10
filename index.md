@@ -53,7 +53,6 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 ### Course material and links
 
 - [Timetable](#schedule)
-- [Final project](project/project.md)
 - [Useful Tips](material/dspractice.md)
 - [Honor Code](honorcode.md)
 
