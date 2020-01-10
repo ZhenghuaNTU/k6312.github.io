@@ -102,16 +102,16 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 Thursday 01/16 | Introduction to Information Mining & Analysis (Data Proprocessing)| TBU | N.A.
 Thursday 01/23 | Basics in Python Programming | TBU |N.A
 Thursday 01/30 | Linear Regression  | TBU | N.A.
-Thursday 02/06 | Logistic Regression | TBU | N.A.
+Thursday 02/06 | Logistic Regression | TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 02/13 | Decision Tree |TBU | <font color='SeaGreen'>Project Title Submission</font>
 Thursday 02/20 | Ensemble Learning| TBU | N.A.
 Thursday 02/27 | Neural Networks| TBU | N.A.
-Thursday 03/12 | Support Vector Machine | TBU | 
+Thursday 03/12 | Support Vector Machine | TBU | N.A.
 Thursday 03/19 | Interpretability of Machine Learning | TBU | N.A.
 Thursday 03/26 | Unsupervised Learning (Clustering) | TBU | <font color='SeaGreen'>In-class Assignment</font>
 Thursday 04/02 | Introduction to Deep Learning | TBU| N.A.
 Thursday 04/09 | Group Presentation | TBU | N.A.
-Thursday 04/16 | Group Presentation & Key Points Review | N.A. | N.A.
+Thursday 04/16 | Group Presentation & Key Points Review | TBU | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
 
