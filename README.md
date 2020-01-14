@@ -1,6 +1,6 @@
 ## 
 
-Course material and notes for [H6751](https://nusmsba.github.io/), Text and Web Mining, Nanyang Technological University, Spring 2020                                       
+Course material and notes for [K6312](https://k6312.github.io/), Information Mining & Analysis, Nanyang Technological University, Spring 2020                                       
 
 ### Design Reference
 
