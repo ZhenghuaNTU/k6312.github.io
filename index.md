@@ -136,7 +136,4 @@ Thursday 04/09 | Group Presentation | TBU | N.A.
 Thursday 04/16 | Group Presentation & Key Points Review | TBU | N.A.
 Sat p.m 04/25 | N.A | N.A. |<font color='SeaGreen'>Project Paper Submission</font>
 
-1. [Slides](../slides/w1.pdf)
-
-2. [Notebook](../code/week1/week1.zip)
 
