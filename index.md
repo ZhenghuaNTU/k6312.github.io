@@ -122,7 +122,7 @@ Class Venue: Tan Tong Meng (TTM) PC Lab CS02-35a WKWSCI Bldg
 **Date** |	**Topic** |	**Lecture** | **Assignment Due**
 :----:  | ------- | :----: | ---------------
 Thursday 01/16 | Introduction to Information Mining & Analysis| [Slides](slides/Week1_IMA.pdf), [Notebook](slides/K6312_Lab_1.zip)| N.A.
-Thursday 01/23 | Basics in Python Programming & Data Proprocessing|  [Slides](slides/Key concepts.pdf), [Notebook](slides/week 2 Notebook and Data.zip) |N.A
+Thursday 01/23 | Basics in Python Programming & Data Proprocessing|  [Slides](slides/Keyconcepts.pdf), [Notebook](slides/week2NotebookandData.zip) |N.A
 Thursday 01/30 | Linear Regression  | [Slides](slides/Week3_LinearRegression1.pdf), [Notebook](slides/week3Lab.ipynb), [Data1](slides/pima-indians-diabetes.csv) [Data2](slides/Boston.csv)| N.A.
 Thursday 02/06 | Logistic Regression | TBU | N.A.
 Thursday 02/13 | Decision Tree |TBU | <font color='SeaGreen'>In-class Assignment</font>
