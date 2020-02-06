@@ -58,6 +58,7 @@ If you are not proficient in python, you may find [some tutorials](material/codi
 
 ## <font color='Red'>Announcement</font>
 
+> - *2020-02-06*: [submit group information](https://docs.google.com/spreadsheets/d/1KpPTtSimJ9MqPYebTcNCEA7WjjE3HFOWTx7tAUmmtN4/edit?usp=sharing)
 > - *2020-01-16*: Welcome to K6312.
 > - *2020-01-08*: ~~this site has been public.~~
 
