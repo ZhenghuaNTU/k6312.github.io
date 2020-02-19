@@ -128,7 +128,7 @@ Thursday 01/23 | Basics in Python Programming & Data Proprocessing|  [Slides](sl
 Thursday 01/30 | Linear Regression  | [Slides](slides/Week3_LinearRegression1.pdf), [Notebook](slides/week3Lab.ipynb), [Data1](slides/pima-indians-diabetes.csv) [Data2](slides/Boston.csv)| N.A.
 Thursday 02/06 | Logistic Regression | [Slides & Notebook](slides/week4LR.zip) | N.A.
 Thursday 02/13 | Decision Tree |[Slides](slides/Week5_DT1.pdf) | <font color='SeaGreen'>In-class Assignment</font>
-Thursday 02/20 | Ensemble Learning| TBU |<font color='SeaGreen'>Project Title Submission</font>
+Thursday 02/20 | Ensemble Learning| [Slides & Notebook](slides/week6.zip) |<font color='SeaGreen'>Project Title Submission</font>
 Thursday 02/27 | Neural Networks| TBU | N.A.
 Thursday 03/12 | Support Vector Machine | TBU | N.A.
 Thursday 03/19 | Interpretability of Machine Learning | TBU | N.A.
